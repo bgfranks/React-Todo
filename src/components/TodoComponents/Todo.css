@@ -1,0 +1,10 @@
+.item {
+  color: #f3f3f3;
+  font-size: 1.5rem;
+  padding: 20px;
+}
+
+.item.complete {
+  text-decoration: line-through;
+  color: grey;
+}
